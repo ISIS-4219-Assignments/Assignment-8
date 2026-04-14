@@ -6,3 +6,6 @@ env/
 
 # Ignore reference file
 src/reference.ipynb
+
+# Datasets folder due to size
+datasets/
